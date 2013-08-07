@@ -1,4 +1,1 @@
-Elevator Controller
-===================
-
-Elevator Simulation
+Controlls elevators for a high rise with n number of elevator and n number of floors. 
